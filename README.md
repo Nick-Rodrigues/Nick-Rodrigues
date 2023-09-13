@@ -5,6 +5,7 @@
 - 🏋🏻‍♂️ Fun fact: If I'm not studying, I'm at the gym
 - 😄 Pronouns: He/him
 - 💬 I can fluently speak English and Portuguese
+- 🚀 My goal is above the sky
 
 <div style="display :inline_block" align="center">
   <h3>What I'm used to</h3>
@@ -21,6 +22,10 @@
   <img align='center' alt='Nick-sql' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> 
   <img align='center' alt='Nick-jv' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align='center' alt='Nick-ts' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />         
+</div>
+
+<div align="center">
+  [![Nicolas Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick-Rodrigues&show_icons=true&theme=dracula)](https://github.com/Nick-Rodrigues/github-readme-stats)
 </div>
 
 #### 🤝🏼 Contacts
