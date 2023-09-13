@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  [![Nicolas Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick-Rodrigues&show_icons=true&theme=dracula)](https://github.com/Nick-Rodrigues/github-readme-stats)
+  ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick-Rodrigues&show_icons=true&theme=dracula)
 </div>
 
 #### 🤝🏼 Contacts
