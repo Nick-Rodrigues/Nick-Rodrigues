@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently chasing my System Analysis and Development degree
 - 🌱 I’m currently learning Typescript and React
-- 🏋🏻‍♂️ Fun fact: If I'm not studying, I'm at the gym
 - 😄 Pronouns: He/him
 - 💬 I can fluently speak English and Portuguese
 - 🚀 My goal is above the sky
